@@ -34,5 +34,5 @@ def list_by_status(status):
     matching = [f"{row['Invoice №']} — {row['Total value']}" for row in records if row["Status"].lower() == status.lower()]
     if not matching:
         return "Немає інвойсів з таким статусом."
-    return f"📋 Інвойси зі статусом {status}:
-" + "\n".join(matching)
+    return f"""📋 Інвойси зі статусом {status}:
+{chr(10).join(matching)}"""
