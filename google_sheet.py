@@ -2,8 +2,8 @@ import gspread
 import os
 from oauth2client.service_account import ServiceAccountCredentials
 
-SPREADSHEET_NAME = "Invoice Table"
-SHEET_NAME = "Sheet1"
+SPREADSHEET_NAME = "Invoice Check-List"
+SHEET_NAME = "Jysk Nordic"
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
