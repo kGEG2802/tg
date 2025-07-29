@@ -14,11 +14,11 @@ def handle_invoice_request(invoice_number):
     records = sheet.get_all_records()
     for row in records:
         if str(row["Invoice №"]) == str(invoice_number):
-            return f"📄 Invoice {invoice_number}:
-Date: {row['Date']}
-Total: {row['Total value']}
-Status: {row['Status']}
-Link: {row['Link']}"
+           return f"""📄 Invoice {invoice_number}:
+Date: {row["Date"]}
+Total: {row["Total value"]}
+Status: {row["Status"]}
+Link: {row["Link"]}"""
     return "Не знайдено такого інвойсу."
 
 def update_invoice_status(invoice_number):
