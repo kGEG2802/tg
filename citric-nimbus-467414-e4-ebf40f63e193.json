@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "citric-nimbus-467414-e4",
+  "private_key_id": "ebf40f63e19328757d9bde468e6a83177e5ec235",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLUWRMLfmlWvVT\n0tVAxmEpyE9doQU38TRqPNxc3dmGK71xzfBmmNCVIrs7yYx9mtrBTZ6VVMG5SYgK\nBH7lHYiNDe42i/5J56pVZ0d/v2y8DXfHyxVaxWMJjZRLzIOjsVVirroom6sW8t5N\nVZAnMb9v3thqMPTErZAvAMUP7ojjvi0woXzvSM5LkFR4LZartLOUEqXxgfkEf0IO\n51svD6/toePgTIZz3y4U5bV02cHkVuK7kbOHipJaeV/QHrSgeRtFAlKY2+qC2hMC\nmnBEoQX1vbhf0+H9aY3cys/NdcykEeIrWOwUSTAF9ZkkRc7dDA7KKUt2zHGGz98K\nUU+lh/GXAgMBAAECggEADXCMMZ1WY7yyYjMARexdgg5yJJor7XAKl9bKQ3JzJw0F\nurVmWNNs8kORK3Ld6dpn76AxK+WmFDJNBX1MY0CQOEnwv0O1iiGzEjsl/ROxXQrp\nqiTKY0b2wXjNq5o38QTPXc5D+Vw05oSLKk+0gpeL9BnZP2FZRK9eZdgzFPCetUMZ\nfJqyoHZHzzq4/1J0MH27Ru/Izl5JwjXZEG0tQKkUJXmF5nYDV4CKyDwJ/cr1WbXx\nhzJX6D3TW4Gyk9z8NmxShdWRVsQTJtokM+ZRWjSWEzgvjjFsEaDVvxGS9T/+02fl\nz2lUppouvulmwcuErNuugiKglREAlcmHZgsKbpKgCQKBgQDpIkDdszAic4vz5XUi\nl+pMSsAC3/jDev6nrC9DxXg8epyHsIiD/ymXeS0zRsiVgQOUoeXAEaD5x7EPvFLe\nD50cdKF6/0hSaZuNyMhzSk+N9CgM8c/VO4jUUCe4VmgeE1ybcJC8ZXPnUWY03ord\ndeOaBecBqmi4W2xqUO68UjX72QKBgQDfQn486r3Yiq9kmEKvUO2DT4AYY92feXzR\nEQsQ84nGuhnHSf2dL6Ezr84xw2fllWzp/LktDGACEk82goExPqVlXKZQeuZxSMSP\nO+GlHCWp6pr70POu4McY66iagQZ61CB0Iv9OI04QGAYf6zrJw6dzV2sAuTPlTSLX\n/E5wFMci7wKBgFFxrPWGdudiNF9FJvGp3qk+Z+vZML+hxTrwVSa44rNGJk7k5hwu\n1Onc5GSIcuR/yK9xC6FYx0Lbd0jHArAfBkT9nbgpXKulxzj2DsjwCfDOfftfsrqM\nbNW3Ftk4HnF7VBvdbELUsnP6JNmNcTfCyntxWm1jief10F8n3O8fTUqpAoGBAMYh\n64hCRwMSaP9cROnzZyV+e06p6ffqSAP+HRUJHL95TwFWv7UsnOIS5mmxYdYUmxi4\nyNmavuV3vEbC4MaEMyJWa97GgxYMHyyCVwlBhodaBfrugCQ1pVuPYAzl7os5ECgh\nGvQMTu3ndCAFkSGX+lZZQUPeGJkpsH9/kVjUh7mPAoGBAMLnH1WzhmPFi/hAscBx\ndj2q5/XUa4o5Si3tCLo3oXXT/+HcD3ayezQ6ZlPPPErnInkRE2Ix/ikZtjALaBck\n9fw/HEePQyhlrRSzZdmmzLwy3sJxeUVnieC/U8u8Pew0fCm5YwlRD7SO1bLKrUz6\naQTrfT2anQl76g68sIl8A4h3\n-----END PRIVATE KEY-----\n",
+  "client_email": "telegram-bot-access@citric-nimbus-467414-e4.iam.gserviceaccount.com",
+  "client_id": "108134185964803479105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegram-bot-access%40citric-nimbus-467414-e4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
